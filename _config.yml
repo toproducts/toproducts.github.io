@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
@@ -63,3 +64,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+=======
+theme: jekyll-theme-cayman
+>>>>>>> dc0aa0426bd8fbc7bd641d8a7ed45e9dc61bc6d0
