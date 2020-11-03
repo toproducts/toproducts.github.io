@@ -17,12 +17,8 @@ people:
   pic: 1
   position: Owner
   social:
-    - title: Instagram
-      url: https://www.facebook.com/prashantcommunication
     - title: facebook
       url: https://www.facebook.com/prashantcommunication
-    - title: Maps
-      url: https://goo.gl/maps/KoWVz6WfL9gB69ko9
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
