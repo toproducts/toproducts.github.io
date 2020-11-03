@@ -8,56 +8,26 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: Prashant Commmunications
 email: prachirpandey03@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Planning for Mobile Shopping, recharges, deals? Visit our now to explore mobile phones including mobile prices, recharges plans reviews, comparisons, features, videos, accessories ."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Prachir Pandey
   pic: 1
-  position: Lead Designer
+  position: Owner
   social:
-    - title: twitter
-      url: #
+    - title: Instagram
+      url: https://www.facebook.com/prashantcommunication
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/prashantcommunication
+    - title: Maps
+      url: https://goo.gl/maps/KoWVz6WfL9gB69ko9
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: Facebook
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: YouTube
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/prashantcommunication
 
 # Postal address (add as many lines as necessary)
 address:
